@@ -1,9 +1,9 @@
 {
-	"ownerID": "394076891801190410",
-	"channelID": "733739979808964643",
+	"ownerID": "seu id de conta",
+	"channelID": "canal caso faça flood",
 	"timer": "1000",
-	"message": "mensagem teste",
+	"message": "mensagem para selfbot ou flood",
 	"memberADD": false,
 	"memberREMOVE": false,
-	"token": "NzMxNTU5MzAxOTc3NzM1MTc5.X1rlrw.RjqFDlAwhXUbpEJt6nDn2Sr_9YY"
+	"token": "token de uma conta (não pode ser bot)"
 }
