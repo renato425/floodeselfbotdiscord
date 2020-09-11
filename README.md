@@ -53,5 +53,7 @@ Ex: `!timer 15000` //15 segundos
 Você pode editar todas essas informações também pelo `config.json`
 
 Esse bot foi criado por: **renatin**
+
 [GitHub](https://github.com/renato425)
+
 [YouTube](https://www.youtube.com/channel/UCQ4KaaXxcr7GkvZvcJaZmUA)
