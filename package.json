@@ -1,5 +1,5 @@
 {
-  "name": "fllod-selfbot",
+  "name": "flood-selfbot",
   "version": "0.5.0",
   "description": "Bot para floodar servidores e para divulgar, feito por renatin",
   "main": "index.js",
