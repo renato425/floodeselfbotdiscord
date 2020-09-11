@@ -4,9 +4,9 @@
   "description": "Bot para floodar servidores e para divulgar, feito por renatin",
   "main": "index.js",
   "scripts": {
-    "test": "!ajuda"
+    "test": "!iniciar"
   },
-  "author": "",
+  "author": "renatin",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^12.3.1",
